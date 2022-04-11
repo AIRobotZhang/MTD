@@ -1,0 +1,40 @@
+{
+    "ner": {
+        "B-country": 0,
+        "B-election": 1,
+        "B-event": 2,
+        "B-location": 3,
+        "B-misc": 4,
+        "B-organisation": 5,
+        "B-person": 6,
+        "B-politicalparty": 7,
+        "B-politician": 8,
+        "I-country": 9,
+        "I-election": 10,
+        "I-event": 11,
+        "I-location": 12,
+        "I-misc": 13,
+        "I-organisation": 14,
+        "I-person": 15,
+        "I-politicalparty": 16,
+        "I-politician": 17,
+        "O": 18
+    },
+    "span": {
+        "B": 0,
+        "I": 1,
+        "O": 2
+    },
+    "type": {
+        "country": 0,
+        "election": 1,
+        "event": 2,
+        "location": 3,
+        "misc": 4,
+        "organisation": 5,
+        "person": 6,
+        "politicalparty": 7,
+        "politician": 8,
+        "O": 9
+    }
+}

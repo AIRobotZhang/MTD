@@ -1,0 +1,49 @@
+{
+    "ner": {
+        "B-award": 0,
+        "B-book": 1,
+        "B-country": 2,
+        "B-event": 3,
+        "B-literarygenre": 4,
+        "B-location": 5,
+        "B-magazine": 6,
+        "B-misc": 7,
+        "B-organisation": 8,
+        "B-person": 9,
+        "B-poem": 10,
+        "B-writer": 11,
+        "I-award": 12,
+        "I-book": 13,
+        "I-country": 14,
+        "I-event": 15,
+        "I-literarygenre": 16,
+        "I-location": 17,
+        "I-magazine": 18,
+        "I-misc": 19,
+        "I-organisation": 20,
+        "I-person": 21,
+        "I-poem": 22,
+        "I-writer": 23,
+        "O": 24
+    },
+    "span": {
+        "B": 0,
+        "I": 1,
+        "O": 2
+    },
+    "type": {
+        "award": 0,
+        "book": 1,
+        "country": 2,
+        "event": 3,
+        "literarygenre": 4,
+        "location": 5,
+        "magazine": 6,
+        "misc": 7,
+        "organisation": 8,
+        "person": 9,
+        "poem": 10,
+        "writer": 11,
+        "O": 12
+    }
+}

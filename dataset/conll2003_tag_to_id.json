@@ -1,0 +1,25 @@
+{
+    "ner": {
+        "B-location": 0,
+        "B-misc": 1,
+        "B-organisation": 2,
+        "B-person": 3,
+        "I-location": 4,
+        "I-misc": 5,
+        "I-organisation": 6,
+        "I-person": 7,
+        "O": 8
+    },
+    "span": {
+        "B": 0,
+        "I": 1,
+        "O": 2
+    },
+    "type": {
+        "location": 0,
+        "misc": 1,
+        "organisation": 2,
+        "person": 3,
+        "O": 4
+    }
+}

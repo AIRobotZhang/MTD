@@ -1,0 +1,52 @@
+{
+    "ner": {
+        "B-album": 0,
+        "B-award": 1,
+        "B-band": 2,
+        "B-country": 3,
+        "B-event": 4,
+        "B-location": 5,
+        "B-misc": 6,
+        "B-musicalartist": 7,
+        "B-musicalinstrument": 8,
+        "B-musicgenre": 9,
+        "B-organisation": 10,
+        "B-person": 11,
+        "B-song": 12,
+        "I-album": 13,
+        "I-award": 14,
+        "I-band": 15,
+        "I-country": 16,
+        "I-event": 17,
+        "I-location": 18,
+        "I-misc": 19,
+        "I-musicalartist": 20,
+        "I-musicalinstrument": 21,
+        "I-musicgenre": 22,
+        "I-organisation": 23,
+        "I-person": 24,
+        "I-song": 25,
+        "O": 26
+    },
+    "span": {
+        "B": 0,
+        "I": 1,
+        "O": 2
+    },
+    "type": {
+        "album": 0,
+        "award": 1,
+        "band": 2,
+        "country": 3,
+        "event": 4,
+        "location": 5,
+        "misc": 6,
+        "musicalartist": 7,
+        "musicalinstrument": 8,
+        "musicgenre": 9,
+        "organisation": 10,
+        "person": 11,
+        "song": 12,
+        "O": 13
+    }
+}

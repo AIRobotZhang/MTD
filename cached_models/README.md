@@ -1,0 +1,1 @@
+### The dir will contain BERT pretrained models that will be downloaded automatically.
