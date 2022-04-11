@@ -1,7 +1,7 @@
 ## [Exploring Modular Task Decomposition in Cross-domain Named Entity Recognition (SIGIR 2022)](https://github.com/AIRobotZhang/MTD)
 
 ## Framework
-![image](img/framework.png)
+![image](fig/framework.png)
 
 ## Requirements
 - python==3.7.4
